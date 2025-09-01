@@ -303,8 +303,7 @@ This Telegram bot aggregates RSS feeds into a SQLite database, provides FTS5 ful
 
 ## Лицензия
 
-(Укажите лицензию — например MIT / Apache-2.0 — если требуется.)
+Apache-2.0
 
 ---
 
-Готово. Если нужна версия на английском целиком, Dockerfile, requirements.txt или подсветка совпадений в результатах поиска — дайте знать.
