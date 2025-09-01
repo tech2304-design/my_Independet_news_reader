@@ -1,0 +1,7 @@
+aiogram==3.5.0
+APScheduler==3.10.4
+feedparser==6.0.11
+aiohttp==3.9.5
+toml==0.10.2
+python-dotenv==1.0.1
+nest_asyncio==1.6.0  # опционально для Jupyter

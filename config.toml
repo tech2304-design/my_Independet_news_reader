@@ -1,0 +1,19 @@
+[database]
+path = "news.db"
+
+[telegram]
+bot_token = "BOT_TOKEN"
+chat_id = "CHAT_ID"
+
+[scheduler]
+fetch_interval_minutes = 60
+
+[fetch]
+batch_limit_per_feed = 0
+timeout_seconds = 20
+user_agent = "RSSBotAiogram/1.0 (+https://example.org)"
+
+[pagination]
+page_size = 10
+search_page_size = 10
+latest_count = 10   # количество новостей для команды /latest

@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/22074413/README.md)
 # RSS / Telegram News Aggregator Bot (aiogram 3, SQLite, FTS5)
 
 Телеграм‑бот для агрегации RSS лент независимых/выбранных медиа, сохранения новостей в SQLite и удобной навигации / полнотекстового поиска (с логическими операторами).  
